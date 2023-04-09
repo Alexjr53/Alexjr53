@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Alex junior 🐉
-Olá! sou Alexsandro, possuo 26 anos e atualmente estudo análise e desenvolvimento de sistemas na universidade Anhembi Morumbi. e sou um desenvolvedor Front-end em formação! buscando oportunidades para ampliar meus conhecimentos. Uma pessoa apaixonada por tecnologia, sempre buscando atualizar-me com as tendências do mercado
+Olá! sou Alexsandro, possuo 26 anos e atualmente estudo análise e desenvolvimento de sistemas na universidade Anhembi Morumbi. e sou um desenvolvedor Front-end em formação! buscando oportunidades para ampliar meus conhecimentos. 
+Sou uma pessoa apaixonada por tecnologia, sempre buscando atualizar-me com as tendências do mercado
  <div>
   <a href="https://github.com/Alexjr53">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexjr53&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
