@@ -1,7 +1,6 @@
 ## Bem-vindo(a) ao perfil do Alex junior 🐉
-Olá! sou Alexsandro, possuo 26 anos e atualmente estudo análise e desenvolvimento de sistemas na universidade Anhembi Morumbi.<br> 
-Sou um desenvolvedor Front-end em formação! Sou uma pessoa apaixonada por tecnologia, sempre buscando atualizar-me com as tendências do mercado. <br> 
-Buscando oportunidades para ampliar meus conhecimentos e colocar em prática aspectos abordados em sala de aula.
+Olá! sou Alexsandro, atualmente cursando análise e desenvolvimento de sistemas na universidade Anhembi Morumbi.<br> 
+apaixonado por tecnologia, me especializando em desenvolvimento web front-end e constantemente aprimorando minhas habilidades em JavaScript e React.js. Buscando sempre me atualizar com as tendências do mercado.
 
  <div>
   <a href="https://github.com/Alexjr53">
